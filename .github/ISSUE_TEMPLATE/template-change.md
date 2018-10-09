@@ -1,10 +1,12 @@
----
-name: Template Change
-about: Change issue template
-
----
-
-# Description
+### Description
 
 
-# Acceptance
+### Acceptance
+
+
+### Impact
+
+* **Severity**: [ ] High [ ] Medium  [ ] Low
+
+
+
