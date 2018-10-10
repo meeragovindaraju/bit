@@ -1,10 +1,11 @@
----
-name: Template Story
-about: Story template
+# Description 
 
----
-
-# Description
-As a <role> I want <function> so that <business need>.
+# Impact
+* *Severity*: [ ] High [ ] Medium  [ ] Low
+* **Frequency of Occurence**: [ ] High [ ] Medium  [ ] Low
 
 # Acceptance
+
+# Next Steps for User
+_If this story is accepted or rejected, what does user need to know now?_
+
