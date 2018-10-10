@@ -1,3 +1,9 @@
+---
+name: Template Story
+about: Story template
+
+---
+
 # Description 
 
 # Impact
