@@ -1,3 +1,9 @@
+---
+name: Template Bug
+about: Bug issue template
+
+---
+
 ### Description
 
 **SCENARIO** _Briefly describe the issue._
