@@ -1,6 +1,6 @@
 ---
-name: Template Bug
-about: Bug issue template
+name: Template Change
+about: Change issue template
 
 ---
 
